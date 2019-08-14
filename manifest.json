@@ -1,0 +1,13 @@
+{
+  "name": "Naver Cafe Best Post",
+  "version": "1.0",
+  "description": "View Naver Cafe Best Post",
+  "permissions": ["tabs"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "page_action": {
+    "default_icon": "cafe.png"
+  },
+  "manifest_version": 2
+}
