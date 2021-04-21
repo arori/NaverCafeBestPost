@@ -1,6 +1,6 @@
 {
   "name": "Naver Cafe Best Post",
-  "version": "1.0",
+  "version": "1.1",
   "description": "View Naver Cafe Best Post",
   "permissions": ["tabs"],
   "background": {
